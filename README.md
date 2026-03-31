@@ -78,3 +78,9 @@ and average customer spending. The dashboard enables users to analyze revenue tr
 ## Conclusion
 
 This dashboard serves as a powerful tool for sales performance analysis, helping businesses track key metrics, identify trends, and make data-driven decisions to enhance revenue and customer engagement.
+
+---
+
+**👨‍💻 Author** </br>
+Vinut Maradur </br>
+MCA (Data Science) Graduate | Data Analyst | Data Science Enthusiast
