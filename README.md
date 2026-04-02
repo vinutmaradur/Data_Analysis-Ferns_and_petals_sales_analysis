@@ -83,4 +83,4 @@ This dashboard serves as a powerful tool for sales performance analysis, helping
 
 **👨‍💻 Author** </br>
 Vinut Maradur </br>
-MCA (Data Science) Graduate | Data Analyst | Data Science Enthusiast
+Ferns and Petals Sales Analysis using Excel
